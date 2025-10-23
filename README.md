@@ -1,7 +1,7 @@
 # 🎮 Free-to-Play Gaming Trends 📈
 
 ## 👩‍💻 Team
-* Shakhizada Zhansulu 22B030568
+* Shakhizada Zhansulu 22B030468
 * Myrzakhankyzy Arailym 22B030408
 
 ---
